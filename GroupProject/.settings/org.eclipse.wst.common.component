@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
     <wb-module deploy-name="GroupProject">
-        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
         <dependent-module archiveName="TradeServicesWeb.war" deploy-path="/" handle="module:/resource/TradeServicesWeb/TradeServicesWeb">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="TeamFiveTest.war" deploy-path="/" handle="module:/resource/TeamFiveTest/TeamFiveTest">
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>

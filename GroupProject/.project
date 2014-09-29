@@ -4,6 +4,7 @@
 	<comment></comment>
 	<projects>
 		<project>TradeServicesWeb</project>
+		<project>TeamFiveTest</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
