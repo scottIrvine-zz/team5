@@ -13,6 +13,10 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/Workspace/team5/jsonp-jaxrs-1.0.jar"/>
+=======
+	<classpathentry kind="lib" path="C:/Users/Citi Tech 2014/Desktop/jsonp-jaxrs-1.0.jar"/>
+>>>>>>> origin/master
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
