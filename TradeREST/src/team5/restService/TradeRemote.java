@@ -21,7 +21,7 @@ public class TradeRemote {
     @GET
     @Produces("text/plain")
     public String getText() {
-        return "Hello world!";
+        return "Hello world from Java!";
     }
 
     /**
