@@ -13,5 +13,6 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Workspace/team5/jsonp-jaxrs-1.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
